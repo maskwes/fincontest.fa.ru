@@ -1,0 +1,40 @@
+@font-face{
+    font-family: "MullerBold";
+    src: url("../fonts/Fontfabric\ -\ MullerBold.otf");
+}
+@font-face{
+    font-family: "MullerLight";
+    src: url("../fonts/Fontfabric\ -\ MullerLight.otf");
+}
+@font-face{
+    font-family: "MullerMedium";
+    src: url("../fonts/Fontfabric\ -\ MullerMedium.otf");
+}
+@font-face{
+    font-family: "MullerRegular";
+    src: url("../fonts/Fontfabric\ -\ MullerRegular.otf");
+}
+@font-face{
+    font-family: "MullerThin";
+    src: url("../fonts/Fontfabric\ -\ MullerThin.otf");
+}
+@font-face{
+    font-family: 'MontserratBold';
+    src: url("../fonts/Montserrat-Bold.ttf");
+}
+@font-face{
+    font-family: 'MontserratLight';
+    src: url("../fonts/Montserrat-Light.ttf");
+}
+@font-face{
+    font-family: 'MontserratMedium';
+    src: url("../fonts/Montserrat-Medium.ttf");
+}
+@font-face{
+    font-family: 'MontserratRegular';
+    src: url("../fonts/Montserrat-Regular.ttf");
+}
+@font-face{
+    font-family: 'MontserratSemiBold';
+    src: url("../fonts/Montserrat-SemiBold.ttf");
+}
