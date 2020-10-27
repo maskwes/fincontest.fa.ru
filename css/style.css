@@ -506,9 +506,8 @@ body {
 }
 
 .image-chart {
+  max-width: 392px;
   width: 100%;
-  -webkit-box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
-          box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
 }
 
 .sponsor-image {
@@ -566,8 +565,6 @@ ul ul, ol ul {
 
 .header__img {
   width: 100%;
-  -webkit-box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
-          box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
 }
 
 .menu .menu-item {
